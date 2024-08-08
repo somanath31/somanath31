@@ -6,6 +6,7 @@
 - 📫 How to reach me: [somanatheee@gmail.com](mailto:somanatheee@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/somanathpatil).
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a background in game testing and love exploring new video games in my free time.**
+
 ---
 <!---
 somanath31/somanath31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
