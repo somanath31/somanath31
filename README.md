@@ -3,7 +3,7 @@
 - 👀 I’m interested in **software testing, automation frameworks, and quality assurance.**
 - 🌱 I’m currently learning **advanced test automation techniques, CI/CD integration, and performance testing tools.**
 - 💞️ I’m looking to collaborate on **open-source projects related to test automation and quality assurance, as well as innovative testing tools.**
-- 📫 How to reach me mailto:somanatheee@gmail.com or connect with me on LinkedIn:https://www.linkedin.com/in/somanathpatil
+- 📫 How to reach me: [somanatheee@gmail.com](mailto:somanatheee@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/somanathpatil).
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a background in game testing and love exploring new video games in my free time.**
 ---
